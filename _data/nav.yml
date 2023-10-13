@@ -3,18 +3,27 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-- url: /schedule/
+- url: /planejamento/
   name: Planejamento
   icon_class: fas fa-calendar-alt
 
-- url: /lectures/
-  name: Aulas
-  icon_class: fas fa-book-reader
+- url: /programacao/
+  name: Programação
+  icon_class: fas fas fa-desktop	
 
-- url: /assignments/
-  name: Projetos
-  icon_class: fas fa-user-graduate
+- url: /robotica/
+  name: Robótica
+  icon_class: fas fas fa-robot	
 
-- url: /materials/
+- url: /letramento/
+  name: Letramento Digital
+  icon_class: fas fas fa-tablet-alt	
+
+
+# - url: /assignments/
+#   name: Projetos
+#   icon_class: fas fa-user-graduate
+
+- url: /materiais/
   name: Materiais
   icon_class: fas fa-book

@@ -2,7 +2,17 @@ instructors:
   - name: Daniel Saad Nogueira Nunes
     profile_pic: /_images/pp/danielsaad.jpg
     webpage: https://danielsaad.com
+  - name: Marlon Marques Sodré
+    profile_pic: /_images/pp/lampiao.jpg
+    webpage: 
+  - name: Thiago Batista Amorim
+    profile_pic: /_images/pp/thiagoamorim.jpg
+    webpage: 
 
-# teaching_assistants:
-#   - name: Virgulino Ferreira da Silva
-#     profile_pic: /_images/pp/lampiao.jpg
+teaching_assistants:
+  - name: Virgulino Ferreira da Silva
+    profile_pic: /_images/pp/lampiao.jpg
+
+coordinator:
+  - name: Leonardo Moreira Leódido
+    profile_pic: /_images/pp/leonardoleodido.jpg
