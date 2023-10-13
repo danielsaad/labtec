@@ -1,5 +1,5 @@
 ---
-layout: lectures
+layout: lectures-programacao
 title: Programação
 permalink: /programacao/
 ---

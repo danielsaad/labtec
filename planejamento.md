@@ -1,5 +1,5 @@
 ---
-layout: schedule
+layout: page
 title: Planejamento
 permalink: /planejamento/
 ---

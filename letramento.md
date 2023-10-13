@@ -1,5 +1,5 @@
 ---
-layout: lectures
+layout: lectures-letramento
 title: Letramento Digital
 permalink: /letramento/
 ---

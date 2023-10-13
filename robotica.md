@@ -1,5 +1,5 @@
 ---
-layout: lectures
+layout: lectures-robotica
 title: Robótica
 permalink: /robotica/
 ---
